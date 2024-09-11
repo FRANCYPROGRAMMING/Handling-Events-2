@@ -1,0 +1,27 @@
+.my-button {
+  background-color: yellow;
+  color: blue;
+  border: 2px solid blue;
+  padding: 10px; 
+  font-size: 16px;
+  cursor: pointer;
+  display: flex;
+  flex-direction: column; 
+  justify-content: center; 
+  align-items: center; 
+  text-align: center;
+  width: fit-content; 
+}
+
+.my-button img {
+  width: 50vw; 
+  height: auto; 
+}
+
+.image-description {
+  margin-top: 10px;
+  font-size: 14px;
+  color: blue;
+  text-align: center;
+  width: 100%; 
+}
